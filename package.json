@@ -1,0 +1,23 @@
+{
+  "name": "torrent-client",
+  "version": "1.0.0",
+  "description": "A peer to peer network for transmitting data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharva0300/torrent-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharva0300/torrent-client/issues"
+  },
+  "homepage": "https://github.com/atharva0300/torrent-client#readme",
+  "dependencies": {
+    "bencode": "^2.0.3"
+  }
+}
