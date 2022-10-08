@@ -17,3 +17,4 @@ A peer to peer network for transmitting data
 7. <a href = "https://roadmap.sh/guides/torrent-client">https://roadmap.sh/guides/torrent-client</a>
 8. <a href = "https://www.youtube.com/watch?v=8sTttjDmNbk">https://www.youtube.com/watch?v=8sTttjDmNbk</a>
 9. <a href = "https://www.youtube.com/watch?v=Pe3b9bdRtiE">https://www.youtube.com/watch?v=Pe3b9bdRtiE</a>
+10. <a href = "https://www.aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html">https://www.aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html</a>
