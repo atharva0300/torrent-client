@@ -13,4 +13,4 @@ A peer to peer network for transmitting data
 3. <a href = "https://en.wikipedia.org/wiki/BitTorrent">https://en.wikipedia.org/wiki/BitTorrent</a>
 4. <a href = "http://www.bittorrent.org/beps/bep_0003.html">http://www.bittorrent.org/beps/bep_0003.html</a>
 5. <a href = "https://wiki.theory.org/BitTorrentSpecification">https://wiki.theory.org/BitTorrentSpecification</a>
-6. <a href = "https://github.com/vaibhav-walia/vaiTorrent"<https://github.com/vaibhav-walia/vaiTorrent</a>
+6. <a href = "https://github.com/vaibhav-walia/vaiTorrent">https://github.com/vaibhav-walia/vaiTorrent</a>
