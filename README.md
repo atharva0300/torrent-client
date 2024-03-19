@@ -1,6 +1,9 @@
 # torrent-client
 A torrent client written in Javascript with the help of Nodejs
 
+# Alert !!
+Works Partially. Under Development
+
 
 # Ideas !
 1. Resources to be shared on the P2P network - pdf files, images, videos, audio, text or any document file, code files.
